@@ -11,3 +11,10 @@ High Precision – GT pulleys and belts significantly reduce backlash, ensuring 
 This robotic arm is ideal for tasks such as pick-and-place operations, 3D printing, automated testing, and human-robot interaction. The project includes detailed documentation, CAD models, firmware, and software integration guides to help you build and control your own robotic arm.
 
 Email: Davindhkelly@gmail.com to gain access to STL files and CAD model
+
+
+# Overview
+
+![image](https://github.com/user-attachments/assets/8f9ff79f-194a-498c-9eb2-f3e4169dfd4b)
+![image](https://github.com/user-attachments/assets/2661f56d-894d-42c3-ad61-9ed574c45a3b)
+![image](https://github.com/user-attachments/assets/90fd3500-c4e3-434e-9a57-e1b00085b5e8)
