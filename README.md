@@ -1,4 +1,4 @@
-# 6DOF-Robotic-Arm
+# 6DOF-Robotic-Arm (Nema Stepper)
 
 Welcome to the 6DOF Stepper Motor Robotic Arm project! This open-source robotic arm is designed for precision and versatility, utilizing six NEMA stepper motors coupled with GT pulleys and belts to minimize backlash and improve motion accuracy. The arm is intended for automation, research, and educational applications, providing a highly customizable and scalable platform for robotic control.
 
